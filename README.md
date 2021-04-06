@@ -2,7 +2,7 @@
 - 👀 I’m interested in web app development and selenium testing 
 - 🌱 I’m currently learning python and django to make some amazing web apps and eventaully start a saas company.
 - 💞️ I’m looking to collaborate on web and mobile apps with anyone who's willing to determine to finish the product 
-- 📫 How to reach me hi-din@hotmail.com
+- 📫 How to reach me hi-din@hotmail.com or at warsamejabarti.com to look at my portfolio 
 
 <!---
 jwarsame/jwarsame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
